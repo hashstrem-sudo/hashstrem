@@ -12,6 +12,5 @@ PROCESS MANAGER
 Analyze the list of active processes
 Hashstrem process Manager allows you not only to get data about active processes but also to find out who initiated its launch. You can change the priority of a process, block its access to the network, or prevent it from starting at all.
 
-https://github.com/hashstrem-sudo/hashstrem/raw/master/slide1.png
-https://github.com/hashstrem-sudo/hashstrem/raw/master/slide2.png
+
 https://github.com/hashstrem-sudo/hashstrem/raw/master/slide3.png
